@@ -20,3 +20,7 @@ db_port: 3306
 
 ![Screenshot (1177)](https://user-images.githubusercontent.com/90723999/156293823-fd3ea818-33b0-40fb-aefb-f1a1d81da9b9.png)
 
+
+Database:
+![image](https://user-images.githubusercontent.com/90723999/156294467-c2080c22-77e9-4502-b68e-268c609dba0c.png)
+
