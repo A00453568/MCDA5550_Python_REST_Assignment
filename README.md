@@ -22,7 +22,9 @@ Functionalities:
 ![Screenshot (1176)](https://user-images.githubusercontent.com/90723999/156293790-b7931ddb-4775-4e58-bc39-c87c648fdc46.png)
 ![Screenshot (1177)](https://user-images.githubusercontent.com/90723999/156293823-fd3ea818-33b0-40fb-aefb-f1a1d81da9b9.png)
 
-4. Unique functionality: as shown above you can post from either of the two links and also a check for same hotel name is done to avoid adding the same hotel
+4. Unique functionality: as shown above you can post from either of the two links and also a check for same hotel name is done to avoid adding the same hotel:
+![Screenshot (1208)](https://user-images.githubusercontent.com/90723999/156299652-3fc44661-bf0b-4b33-bc61-1da67d8be8b9.png)
+![Screenshot (1209)](https://user-images.githubusercontent.com/90723999/156299610-f012bd1c-b7e1-4d4b-a7d7-d0d731ecfd53.png)
 
 
 Database:
